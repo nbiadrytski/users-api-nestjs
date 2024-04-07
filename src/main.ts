@@ -13,3 +13,8 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+// DB:
+// https://console.neon.tech/app/projects/ancient-unit-00575750/branches/br-long-moon-a2vvfvaq/tables
+// course:
+// https://www.youtube.com/watch?v=8_X0nSrzrCw
